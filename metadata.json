@@ -1,0 +1,5 @@
+{
+  "name": "MyMedic",
+  "description": "A comprehensive medical AI application designed for medical offices and pharmacies. This app provides medication information, drug interaction checking, symptom analysis, and health condition guidance using a powerful AI chat interface.",
+  "requestFramePermissions": []
+}

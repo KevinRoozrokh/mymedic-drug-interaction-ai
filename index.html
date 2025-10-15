@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMDA2NkNDIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZVdpZHRoPSIxIj48cGF0aCBkPSJNOCA2aDhhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDhhMiAyIDAgMCAxLTItMlY4YTIgMiAwIDAgMSAyLTJ6Ii8+PHBhdGggZD0iTTggMmg4djRIOHoiLz48cGF0aCBkPSJNMTIgOHY4Ii8+PHBhdGggZD0iTTggMTJoOCIvPjwvc3ZnPg==" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyMedic AI</title>
+  
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              'med-blue': '#0066CC',
+              'med-green': '#10B981',
+              'dark-primary': '#1A202C',
+              'dark-secondary': '#2D3748',
+              'dark-tertiary': '#4A5568',
+              'light-primary': '#FFFFFF',
+              'light-secondary': '#F7FAFC',
+              'light-tertiary': '#EDF2F7',
+            },
+          },
+        },
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.24.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/"
+  }
+}
+</script>
+</head>
+  <body class="bg-light-secondary dark:bg-dark-primary antialiased">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
