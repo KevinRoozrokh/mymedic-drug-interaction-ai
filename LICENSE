@@ -1,81 +1,21 @@
-ROOZROKH PAID SOFTWARE LICENSE v1.0
+MIT License
 
-Copyright © 2025 Kevin Roozrokh
-All rights reserved.
+Copyright (c) 2025 Kevin Roozrokh
 
-By accessing, downloading, using, copying, modifying, distributing, or incorporating this software in any way (collectively, “Use”), you agree to the following legally binding terms:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
----
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-1. NO FREE USE
-
-This software is not free and may not be used, copied, modified, distributed, sublicensed, or incorporated into any product or system without a valid, active paid license from Kevin Roozrokh.
-
-To obtain a license, contact:
-📧 (mailto:roozrokhk@gmail.com)
-
-Any Use without a paid license is strictly prohibited and constitutes copyright infringement.
-
----
-
- 2. RESTRICTIONS
-
-Unless you have received prior written permission from Kevin Roozrokh:
-
-* You may not use this software in any form or for any purpose.
-* You may not distribute or sublicense this software.
-* You may not modify or create derivative works of this software.
-* You may not use this software in commercial or non-commercial applications, research, education, or private use.
-
----
-
- 3. COMMERCIAL USE
-
-All commercial use requires a paid commercial license. Commercial use includes, but is not limited to:
-
-* Internal use by a business or organization
-* Integration into a product or service
-* Use in a for-profit or revenue-generating project
-
-License fees and terms vary depending on usage. Contact for licensing inquiries.
-
----
-
- 4. NO WARRANTY
-
-This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
-
----
-
- 5. LIABILITY
-
-In no event shall Kevin Roozrokh be liable for any claim, damages, or other liability arising from or in connection with this software or the use or other dealings in the software.
-
----
-
- 6. TERMINATION
-
-Unauthorized use of this software immediately terminates any implied rights and may subject you to civil and/or criminal penalties under applicable law.
-
----
-
- 7. GOVERNING LAW
-
-This license is governed by and construed in accordance with the laws of the State of Texas, United States of America. Disputes shall be resolved exclusively in state or federal courts located in Travis County, Texas.
-
----
-
-END OF TERMS
-
-To request a paid license, please contact:
-Kevin Roozrokh
-📧 (mailto:roozrokhk@gmail.com)
-
----
-
-Let me know if you want:
-
-* A shortened version for `README.md`
-* A badge/tag for GitHub pages
-* Terms for trial or limited-use licensing
-* An automated script to detect unlicensed use of your code in other repos.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
